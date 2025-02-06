@@ -1,1 +1,1 @@
-# bootstrap4_project
+Movie Galaxy is a stylish and modern one-page movie website built with HTML, CSS, and Bootstrap. It showcases the latest films, genres, and a contact section. For inquiries, reach out at erdal.mor1@egeacademy.ca
